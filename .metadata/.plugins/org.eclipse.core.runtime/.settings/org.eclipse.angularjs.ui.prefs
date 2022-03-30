@@ -1,0 +1,6 @@
+angularExpression=\#FF9200 | null | false | null | null | null
+angularExpressionBorder=\#FFFFFF | null | false | null | false | false
+directiveName=\#F34141 | null | false | false | null | null
+directiveParameterName=\#5A5BCB | null | false | null | null | null
+eclipse.preferences.version=1
+overriddenByCSS=,angularExpression,directiveName,angularExpressionBorder,directiveParameterName,

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;nuovaDist&apos; in &apos;grafi.Grafo.prim()&apos; to &apos;nuovoPeso&apos;&#x0D;&#x0A;- Original project: &apos;Algo&apos;&#x0D;&#x0A;- Original element: &apos;grafi.Grafo.prim().nuovaDist&apos;&#x0D;&#x0A;- Renamed element: &apos;nuovaDist&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;nuovaDist&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;grafi{Grafo.java[Grafo~prim@nuovaDist!5714!5742!5721!5729!D!0!false" name="nuovoPeso" references="true" stamp="1627225845019" version="1.0"/>
+</session>
